@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+## Im Juan Estrada, UX/UI Designer and Front End Developer
+
+[![Linkedin Badge](https://img.shields.io/badge/-Juan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanmura/)](https://www.linkedin.com/in/juanmura/)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Muralus&show_icons=true&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muralus&layout=compact&theme=gotham)
+
+
 <!--
 **Muralus/Muralus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
