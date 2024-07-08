@@ -8,7 +8,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Muralus&show_icons=true&theme=gotham)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muralus&layout=compact&theme=gotham)
 
-
+![ubo8fj9hvesc1](https://github.com/Muralus/Muralus/assets/62966475/9a749068-4828-45c0-b4c2-245a0a94f7d9)
 <!--
 **Muralus/Muralus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
